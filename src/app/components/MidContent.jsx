@@ -8,7 +8,7 @@ function MidContent() {
         <div className="order-2 md:order-1 mt-6 md:mt-0 flex justify-center w-full md:max-w-[45%]">
         <img
           alt="Hero Student"
-          src="https://static.pw.live/ua/images/hero-student-w.webp"
+          src="./images/hero-student-w.jpg"
           className="block w-full max-w-[300px] sm:max-w-[400px] md:max-w-[500px] h-auto object-contain"
         />
         </div>
